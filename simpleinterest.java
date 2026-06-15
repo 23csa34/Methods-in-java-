@@ -6,7 +6,7 @@ public class Main {
         
         
         
-        return (principal*rate*time)/2;
+        return (principal*rate*time)/100;
     }
 
     public static void main(String[] args) {
